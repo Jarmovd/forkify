@@ -1,6 +1,7 @@
-![image](https://github.com/Jarmovd/forkify/assets/47450872/a717750d-02de-41e7-be97-772022aba4f0)
-
 # Forkify
+https://forkify-jvd.vercel.app/
+
+![image](https://github.com/Jarmovd/forkify/assets/47450872/a717750d-02de-41e7-be97-772022aba4f0)
 
 Forkify is a recipe application built with modern JavaScript, showcasing the use of various web technologies to create a fully functional and responsive cooking recipe app. The application allows users to search for recipes, view detailed instructions, and manage their favorites.
 
